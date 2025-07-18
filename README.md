@@ -76,3 +76,6 @@ docker run -d -p 8080:80 escuela-musica
 - [Paula Calvo García](https://github.com/PCalvoGarcia)
 - [Paola Andrea Pinilla Landazábal](https://github.com/PaolaAPL17)
 - [Lara Pla Moreno](https://github.com/Lizar22)
+
+
+## APPEND: 18TH JULY - DOCKER EXERCISE, NEW DOCKERFILE "Dockerfile2" ADDED -- RUN WITH COMMAND docker build -f Dockerfile2 -t docker-exercise/add-new-dockerfile2 .
